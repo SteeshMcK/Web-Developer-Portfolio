@@ -37,6 +37,11 @@ body {
     font-size: 1.5em;
   }
 
+  .row.thumbnail-div,
+  .row.link-div {
+    padding-top: 1.5em;
+  }
+
   footer {
     text-align: center;
     margin-top: 1.5em;

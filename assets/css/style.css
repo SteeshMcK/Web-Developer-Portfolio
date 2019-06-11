@@ -14,7 +14,8 @@ body {
 
   #imagePlaceholder {
     border-radius: 50%;
-    background: #73AD21;
+    background-image: url(../images/searsCatalog\ .jpg);
+    color: white;
     padding: 20px; 
     width: 150px;
     height: 150px; 
@@ -29,4 +30,18 @@ body {
 
   #personal-info {
       text-align: center;
+  }
+
+  #personal-info p {
+    font-size: 1.5em;
+  }
+
+  footer {
+      text-align: center;
+      margin-top: 1.5em;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background: rgb(255, 254, 242);
   }

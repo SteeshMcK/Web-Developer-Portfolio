@@ -1,0 +1,32 @@
+body {
+    background-image: url("../images/pool.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(51, 53, 100);
+  }
+
+  .container {
+      background-color: rgb(255, 254, 242);
+      margin-top: 1.5em;
+  }
+
+  #imagePlaceholder {
+    border-radius: 50%;
+    background: #73AD21;
+    padding: 20px; 
+    width: 150px;
+    height: 150px; 
+    margin: auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  }
+
+  hr {
+      border-top: 1.5px solid rgb(51, 53, 100);
+  }
+
+  #personal-info {
+      text-align: center;
+  }

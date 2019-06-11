@@ -5,6 +5,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(51, 53, 100);
+    font-family: 'Muli', sans-serif;
   }
 
   .container {
@@ -44,4 +45,5 @@ body {
     bottom: 0;
     width: 100%;
     background: rgb(255, 254, 242);
+    line-height: 5em;
 }

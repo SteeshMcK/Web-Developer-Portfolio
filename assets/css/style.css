@@ -12,6 +12,14 @@ body {
     margin-top: 1.5em;
   }
 
+  a:link {
+    color: rgb(51, 53, 100);
+  }
+
+  a:hover {
+    color: rgb(41, 117, 153);
+  }
+
   #imagePlaceholder {
     border-radius: 50%;
     background-image: url(../images/searsCatalog.jpg);

@@ -12,11 +12,11 @@ body {
     margin-top: 1.5em;
   }
 
-  a:link {
+  .nav-link:link {
     color: rgb(51, 53, 100);
   }
 
-  a:hover {
+  .nav-link:hover {
     color: rgb(41, 117, 153);
   }
 

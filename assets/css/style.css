@@ -12,6 +12,10 @@ body {
     margin-top: 1.5em;
   }
 
+  #main-con {
+    padding-bottom: 1.5em;
+  }
+
   .nav-link:link {
     color: rgb(51, 53, 100);
   }
@@ -20,27 +24,21 @@ body {
     color: rgb(41, 117, 153);
   }
 
-  #imagePlaceholder {
-    border-radius: 50%;
-    background-image: url(../images/searsCatalog.jpg);
-    color: white;
-    padding: 20px; 
-    width: 150px;
-    height: 150px; 
-    margin: auto;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
-  }
+  
+
+
+
 
   hr {
     border-top: 1.5px solid rgb(51, 53, 100);
   }
 
-  #personal-info {
+  .header-style {
+    padding: 1.5em;
     text-align: center;
   }
 
-  #personal-info p {
+  .header-style p {
     font-size: 1.5em;
   }
 

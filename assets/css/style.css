@@ -42,9 +42,13 @@ body {
     font-size: 1.5em;
   }
 
-  .row.thumbnail-div,
-  .row.link-div {
-    padding-top: 1.5em;
+ #project-div {
+   padding: 2.5em 0;
+ }
+
+  .card {
+    background-color: rgb(255, 254, 242);
+    border-style: hidden;
   }
 
   footer {

@@ -65,6 +65,7 @@ body {
   #index-image {
     float: left;
     padding: 1em;
+    height: 200px;
   }
 
   footer {

@@ -1,10 +1,18 @@
 body {
+    color: rgb(51, 53, 100);
+    font-family: 'Muli', sans-serif;
+  }
+
+  #index-body {
     background-image: url("../images/pool.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: rgb(51, 53, 100);
-    font-family: 'Muli', sans-serif;
+  }
+
+
+  #projects-body, #about-body {
+    background-color: rgb(252, 170, 130);
   }
 
   .container {

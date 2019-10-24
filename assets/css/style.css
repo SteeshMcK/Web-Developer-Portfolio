@@ -49,6 +49,12 @@ body {
     padding-top: 2.5em;
   }
 
+  #projects-title {
+    padding-top: 2em;
+    text-align: center;
+    border-bottom: 1px black solid;
+  }
+
   #project-div {
     padding-top: 2em;
   }

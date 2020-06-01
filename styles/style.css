@@ -68,6 +68,15 @@ body {
     margin-bottom: 2.5rem!important;
   }
 
+  #socialMediaLinks a {
+    float: left; 
+    margin: 10px;
+  }
+
+  #socialMediaLinks img {
+    height: 30px;
+  }
+
   #aboutHeader {
     padding-top: 1em;
   }
